@@ -3,7 +3,7 @@ import UnderConstruction from "./pages/UnderConstruction";
 
 function App() {
   return (
-    <div className="flex flex-col h-screen bg-yellow-400">
+    <div className="flex flex-col h-screen">
       <UnderConstruction />
       <Footer />
     </div>
