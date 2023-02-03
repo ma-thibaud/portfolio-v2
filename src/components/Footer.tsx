@@ -53,7 +53,7 @@ function Footer() {
         </div>
         <div className="mt-8 md:order-1 md:mt-0">
           <p className="text-center text-base">
-            &copy; 2022 Designed & Built by Mathias Thibaud
+            &copy; 2023 Designed & Built by Mathias Thibaud
           </p>
         </div>
       </div>
