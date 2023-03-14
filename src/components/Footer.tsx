@@ -44,7 +44,7 @@ function Footer() {
               href={item.href}
               target="_blank"
               rel="noopener noreferrer"
-              className="hover:text-gray-300"
+              className="hover:text-gray-100"
             >
               <span className="sr-only">{item.name}</span>
               <item.icon className="h-6 w-6" aria-hidden="true" />
